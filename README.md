@@ -1,5 +1,6 @@
 # PhotoMobileApp
 
-Run App:
+
+npm install
 
 react-native run-ios
